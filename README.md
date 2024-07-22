@@ -18,7 +18,7 @@ Basically, I'm determined to become a versatile developer who can handle the cha
 
 ## Trophies
 
-### https://github-profile-trophy.vercel.app/?username=dapphari007&column=3&margin-w=15&margin-h=15
+### [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github-profile-trophy.vercel.app/?username=dapphari007&column=3&margin-w=15&margin-h=15)
 
 ## Skills
 
