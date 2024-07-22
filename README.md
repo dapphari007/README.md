@@ -39,4 +39,4 @@ I'm passionate about coding, and I've honed my skills through project-based lear
 ## Connect with Me
 
 🌐 Connect with me on [LinkedIn]https://www.linkedin.com/in/dapp007/  
-📧 Reach out to me at [yuvrajsinh73598@gmail.com](mailto:dappinmonster007@gmail.com)
+📧 Reach out to me at [dappinmonster007@gmail.com](mailto:dappinmonster007@gmail.com)
