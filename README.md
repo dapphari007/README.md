@@ -13,6 +13,10 @@ What makes me different is my drive to go beyond just basic bots. I'm all about 
 
 Basically, I'm determined to become a versatile developer who can handle the challenges of today's tech world, come up with new ideas, and make a real impact in the industry.
 
+## Stats
+
+[![Harish GitHub stats](https://github-readme-stats.vercel.app/api?username=dapphari007)](https://github.com/dapphari007/github-readme-stats)
+
 ## Skills
 
 | Frontend     | Backend         | Security & Testing          | 
