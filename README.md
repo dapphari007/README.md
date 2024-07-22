@@ -15,7 +15,7 @@ Basically, I'm determined to become a versatile developer who can handle the cha
 
 ## Stats
 
-[![Harish GitHub stats](https://github-readme-stats.vercel.app/api?username=dapphari007)](https://github.com/dapphari007/github-readme-stats)
+[![Harish GitHub stats](https://github-readme-stats.vercel.app/api?username=dapphari007)](https://github.com/dapphari007/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dapphari007&layout=donut-vertical)](https://github.com/dapphari007/github-readme-stats)
 
 ## Skills
 
