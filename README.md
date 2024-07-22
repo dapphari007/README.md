@@ -1,5 +1,8 @@
 # Welcome to HARISH K's GitHub Profile! 👋 
 
+## TROPHY
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dapphari007&theme=onedark)](https://github.com/dapphari007/github-profile-trophy)
 
 ## About Me
 
