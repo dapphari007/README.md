@@ -1,9 +1,5 @@
 # Welcome to HARISH K's GitHub Profile! 👋 
 
-## TROPHY
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dapphari007&theme=onedark)](https://github.com/dapphari007/github-profile-trophy)
-
 ## About Me
 
 Hey there!
@@ -19,6 +15,10 @@ Basically, I'm determined to become a versatile developer who can handle the cha
 ## Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dapphari007&layout=donut-vertical)](https://github.com/dapphari007/github-readme-stats)
+
+## Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dapphari007)](https://github.com/dapphari007/github-profile-trophy)
 
 ## Skills
 
